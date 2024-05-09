@@ -30,7 +30,7 @@ Follow these steps to set up the Blog App on your local machine:
 2. Navigate to the project directory:
 
     ```bash
-    cd blog-app
+    cd blog-App-using-node
     ```
 
 3. Install dependencies:
